@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/SCENES/BLOCKOUT SCENE.unity
-  isLoaded: 1
-  isActive: 1
