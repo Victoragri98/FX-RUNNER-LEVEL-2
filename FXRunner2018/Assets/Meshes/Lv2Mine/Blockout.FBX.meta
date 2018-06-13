@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 3ef430be7cb3cbe438e64e43d357aaff
+timeCreated: 1528097130
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base_model
+    100002: Base_model_mesh
+    100004: Base_modelHead
+    100006: Base_modelLCalf
+    100008: Base_modelLCollarbone
+    100010: Base_modelLDigit11
+    100012: Base_modelLDigit11 1
+    100014: Base_modelLDigit12
+    100016: Base_modelLDigit13
+    100018: Base_modelLDigit21
+    100020: Base_modelLDigit22
+    100022: Base_modelLDigit23
+    100024: Base_modelLDigit31
+    100026: Base_modelLDigit32
+    100028: Base_modelLDigit33
+    100030: Base_modelLDigit41
+    100032: Base_modelLDigit42
+    100034: Base_modelLDigit43
+    100036: Base_modelLDigit51
+    100038: Base_modelLDigit52
+    100040: Base_modelLDigit53
+    100042: Base_modelLFoot
+    100044: Base_modelLForearm
+    100046: Base_modelLPalm
+    100048: Base_modelLPlatform
+    100050: Base_modelLThigh
+    100052: Base_modelLUpperarm
+    100054: Base_modelNeck1
+    100056: Base_modelNeck2
+    100058: Base_modelPelvis
+    100060: Base_modelRCalf
+    100062: Base_modelRCollarbone
+    100064: Base_modelRDigit11
+    100066: Base_modelRDigit11 1
+    100068: Base_modelRDigit12
+    100070: Base_modelRDigit13
+    100072: Base_modelRDigit21
+    100074: Base_modelRDigit22
+    100076: Base_modelRDigit23
+    100078: Base_modelRDigit31
+    100080: Base_modelRDigit32
+    100082: Base_modelRDigit33
+    100084: Base_modelRDigit41
+    100086: Base_modelRDigit42
+    100088: Base_modelRDigit43
+    100090: Base_modelRDigit51
+    100092: Base_modelRDigit52
+    100094: Base_modelRDigit53
+    100096: Base_modelRFoot
+    100098: Base_modelRForearm
+    100100: Base_modelRibcage
+    100102: Base_modelRPalm
+    100104: Base_modelRPlatform
+    100106: Base_modelRThigh
+    100108: Base_modelRUpperarm
+    100110: Base_modelSpine1
+    100112: Base_modelSpine2
+    100114: Base_modelSpine3
+    100116: Base_modelSpine4
+    100118: //RootNode
+    100120: Cave
+    100122: Cavern
+    100124: End
+    100126: Path
+    100128: Start
+    400000: Base_model
+    400002: Base_model_mesh
+    400004: Base_modelHead
+    400006: Base_modelLCalf
+    400008: Base_modelLCollarbone
+    400010: Base_modelLDigit11
+    400012: Base_modelLDigit11 1
+    400014: Base_modelLDigit12
+    400016: Base_modelLDigit13
+    400018: Base_modelLDigit21
+    400020: Base_modelLDigit22
+    400022: Base_modelLDigit23
+    400024: Base_modelLDigit31
+    400026: Base_modelLDigit32
+    400028: Base_modelLDigit33
+    400030: Base_modelLDigit41
+    400032: Base_modelLDigit42
+    400034: Base_modelLDigit43
+    400036: Base_modelLDigit51
+    400038: Base_modelLDigit52
+    400040: Base_modelLDigit53
+    400042: Base_modelLFoot
+    400044: Base_modelLForearm
+    400046: Base_modelLPalm
+    400048: Base_modelLPlatform
+    400050: Base_modelLThigh
+    400052: Base_modelLUpperarm
+    400054: Base_modelNeck1
+    400056: Base_modelNeck2
+    400058: Base_modelPelvis
+    400060: Base_modelRCalf
+    400062: Base_modelRCollarbone
+    400064: Base_modelRDigit11
+    400066: Base_modelRDigit11 1
+    400068: Base_modelRDigit12
+    400070: Base_modelRDigit13
+    400072: Base_modelRDigit21
+    400074: Base_modelRDigit22
+    400076: Base_modelRDigit23
+    400078: Base_modelRDigit31
+    400080: Base_modelRDigit32
+    400082: Base_modelRDigit33
+    400084: Base_modelRDigit41
+    400086: Base_modelRDigit42
+    400088: Base_modelRDigit43
+    400090: Base_modelRDigit51
+    400092: Base_modelRDigit52
+    400094: Base_modelRDigit53
+    400096: Base_modelRFoot
+    400098: Base_modelRForearm
+    400100: Base_modelRibcage
+    400102: Base_modelRPalm
+    400104: Base_modelRPlatform
+    400106: Base_modelRThigh
+    400108: Base_modelRUpperarm
+    400110: Base_modelSpine1
+    400112: Base_modelSpine2
+    400114: Base_modelSpine3
+    400116: Base_modelSpine4
+    400118: //RootNode
+    400120: Cave
+    400122: Cavern
+    400124: End
+    400126: Path
+    400128: Start
+    2100000: No Name
+    2300000: Base_model_mesh
+    2300002: Cave
+    2300004: Cavern
+    2300006: End
+    2300008: Path
+    2300010: Start
+    3300000: Base_model_mesh
+    3300002: Cave
+    3300004: Cavern
+    3300006: End
+    3300008: Path
+    3300010: Start
+    4300000: Base_model_mesh
+    4300002: Start
+    4300004: Cave
+    4300006: Cavern
+    4300008: End
+    4300010: Path
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
