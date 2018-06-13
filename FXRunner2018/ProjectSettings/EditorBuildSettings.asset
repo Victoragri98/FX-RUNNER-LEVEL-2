@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Levels/Lv2Mine/Mine Scene.unity
+    guid: de184888148e51142aabac4d6719fb2d
+  - enabled: 1
+    path: Assets/Prototype/Scenes/Templ_level.unity
+    guid: c72a8e51314b2fb41a7252a0cd44459d
